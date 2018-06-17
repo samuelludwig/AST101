@@ -120,7 +120,7 @@ header a:hover{
 #boxes .box{
     float: left;
     text-align: center;
-    width: 32%;
+    width: 30%;
     padding: 10px;
 }
 
@@ -136,25 +136,3 @@ footer{
     border-top: #e8491d 3px solid;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
