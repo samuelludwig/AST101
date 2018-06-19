@@ -34,10 +34,38 @@
             <div class="container">
                 <article id="main-col">
                     <ul>
-                        <li>Section 500</li>
-                        <li>Section 501</li>
-                        <li>Section 504</li>
+                        <li>
+                            <button type="button">Section 500</button>
+                        </li>
+                        <li>
+                            <button type="button">Section 501</button>
+                        </li>
+                        <li>
+                            <button type="button">Section 504</button>
+                        </li>
                     </ul>
+                </article>
+            </div>
+        </section>
+
+        <section id="doc">
+            <div class="container">
+                <article id="500doc">
+                    <p>
+                        <script>
+                            var txtFile = new XMLHttpRequest();
+                                txtFile.open("GET", "file://./Course_Outlines/500.txt", true);
+                                    txtFile.onreadystatechange = function() {
+                                        if (txtFile.readyState === 4) {  // Makes sure the document is ready to parse.
+                                            if (txtFile.status === 200) {  // Makes sure it's found the file.
+                                                allText = txtFile.responseText;
+                                                    lines = txtFile.responseText.split("\n"); // Will separate each line into an array
+                                                    }
+                                                }
+                                            }
+                                            txtFile.send(null);
+                        </script>
+                    </p>
                 </article>
             </div>
         </section>
