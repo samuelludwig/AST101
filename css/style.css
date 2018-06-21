@@ -22,7 +22,7 @@ header{
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #e8491d 3px solid
+    border-bottom: cyan 3px solid
 }
 
 header a{
@@ -53,7 +53,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-    color: #e8491d;
+    color: cyan;
     font-weight: bold;
 }
 
@@ -90,7 +90,7 @@ header a:hover{
 }
 
 #newsletter .highlight{
-    color: #e8491d;
+    color: cyan;
     font-weight: bold;
 }
 
@@ -133,6 +133,6 @@ footer{
     margin-top: 10px;
     color: #ffffff;
     background-color: #35424a;
-    border-top: #e8491d 3px solid;
+    border-top: cyan 3px solid;
     text-align: center;
 }
