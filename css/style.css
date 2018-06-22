@@ -27,7 +27,7 @@ header {
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: cyan 3px solid
+    border-bottom: cornflowerblue 3px solid
 }
 
 header a {
@@ -39,7 +39,6 @@ header a {
 
 header li {
     float: left;
-    display: inline;
     padding: 0 20px 0 20px;
 }
 
@@ -58,7 +57,7 @@ header nav {
 
 header .highlight,
 header .current a {
-    color: cyan;
+    color: cornflowerblue;
     font-weight: bold;
 }
 
@@ -99,7 +98,7 @@ header a:hover {
 }
 
 #newsletter .highlight {
-    color: cyan;
+    color: cornflowerblue;
     font-weight: bold;
 }
 
@@ -146,6 +145,6 @@ footer {
     margin-top: 10px;
     color: #ffffff;
     background-color: #35424a;
-    border-top: cyan 3px solid;
+    border-top: cornflowerblue 3px solid;
     text-align: center;
 }
