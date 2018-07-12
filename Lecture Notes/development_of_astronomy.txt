@@ -1,0 +1,242 @@
+The Development Of Astronomy
+
+
+The Beginning of Science
+
+* Initial Limitations – Circa 2500 B.C., ancient cultures such as the Egyptians, Sumerians, and Mayans initiated scientific thought.  However, it was severely limited by: (1) the practical interests of the people and (2) their primitive outlook of the universe – natural phenomena were associated with the actions of gods and spirits.
+
+* Ionians 1 – Although many ancient Greeks still interpret natural phenomena in terms of divine intervention, a sect of Greeks from Ionia (the Aegean coast of Anatolia) developed a method of inquiry by insisting that one must ignore the myths and trust nothing but what one can observe with one’s own senses.  More specifically, they conducted inquiries based largely in reasoning, gathering data through observations, analyzing this data, and formulating general conclusions from their results.  The “Ionians” established the foundation of the scientific process.
+
+
+Early Greek Period
+
+* Thales 2 (c. 624-547 B.C.) – Thales is regarded as the founder of Greek science.   He made significant breakthroughs in natural sciences, the practice of rational criticism and debate, and distinctions between the natural and supernatural.  He visited Egypt and learned arithmetic, geometry, astronomy, architecture and civil engineering from Egyptian priests. Through logical analysis, he contemplated “what is, how it came to be, and how it changes”.  Although Thales argued, “all things were full of gods”, the supernatural played no part in the explanation of natural phenomena observed by humans.
+
+* In astronomy, Thales is noted for:
+
+Determining the solstices, and therefore that a year is comprised of 365 days.
+
+Determining the relative diameters of the Sun and Moon.
+
+Navigating by Ursa Minor.
+
+* Pythagoras 3 (c. 569-475 B.C.) – Pythagoras founded a school of thinkers that applied mathematical concepts to the interpretation of nature.  He is best known for formulating the Pythagorean theorem – knowing the lengths of the two sides of a right triangle, it is possible to calculate the hypotenuse (a2 + b2  = c2).
+
+
+
+
+
+
+
+
+
+* Pythagoras’ views in astronomy:
+
+Geocentric Universe 4 – The Earth is at the center of a system of moving concentric spheres to which the Sun, Moon, planets and stars (outer-most sphere) are attached.
+
+Spherical Earth – Pythagoras based this proposal purely on aesthetic grounds; the sphere was considered the perfect shape.
+
+* Aristotle 5 (c. 384-322 B.C.) – Although Aristotle acknowledged the importance of “scientific” astronomy (the study of the positions, distances and motions of the stars); he nevertheless treated it in the abstract, linking it to his overall philosophical world picture.  Aristotle’s model of the universe had a profound influence on medieval scholars, who modified it to correspond with Christian theology.  Backed up by religious authority, Aristotle’s model lasted for centuries.  Unfortunately, this had the effect of restraining the progress of science, as few people dared to challenge the authority of the church.
+
+* Aristotle’s correct views in astronomy:
+
+Spherical Moon – Lunar phases can only be formed by light reflecting off a spherical shape.
+
+Spherical Earth – The Earth is a globe.  Aristotle’s proposal is based upon: (1) the shape of the Earth’s shadow during lunar eclipses and (2) the changing altitude of stars along a north-south line.
+
+The Sun is further from the Earth than the Moon is from the Earth.
+
+* Aristotle’s incorrect views in astronomy:
+
+Everything was made out of a few basic substances (“elements”).  The Earth, or what Aristotle referred to as the “earthly realm”, is composed of air, water, fire, and earth, whereas the rest of the universe, or what Aristotle referred to as the “heavenly realm”, is made of fifth element called quintessence (also referred to as aether).
+
+The motion (dynamics) of an object is dependent on its composition.  In the earthly realm, the “natural” direction of motion of objects is in straight lines: toward (down) or away (up) from the center of the Earth (universe).  A direct application of force is required to keep objects in motion other than the “natural” motion – horizontal motion is an unnatural motion.  In the heavenly realm, the “natural” direction of motion is a circle and requires no force.  Since the natural motion depends on the kind of material, the celestial spheres must be constructed of a fifth element not found on Earth – quintessence.
+
+Aristotle believed in a geocentric universe.  The Earth is stationary with all celestial objects connected to spheres of quintessence revolving around the Earth.  Aristotle stated that there is no evidence of a moving Earth: (1) the Earth does not rotate because there is no sense of motion, no strong winds, and no displacement of thrown objects and (2) the Earth does not revolve because stellar parallax could not be observed 6.
+* Claudius Ptolemy 7 (c. 85-165 A.D.) – Ptolemy proposed a form of the geocentric model that utilized concepts first suggested by Apollonius (c. 240-190 B.C.) and further developed by Hipparchus (c. 190-120 B.C.) to explain the “inequalities” of the planets.
+
+* Ptolemaic Model 8 – Ptolemy used what is referred to as the epicycle-deferent construction to explain the increase and decrease in brightness of the planets and their retrograde motion.  More specifically, each planet is assumed to move in a small circle (counterclockwise) called an epicycle, whose center in turn moves in a larger circle (also counterclockwise), called a deferent, which is centered on the Earth.  When the planet is on the part of its epicycle furthest from Earth (causing the planet to appear dimmer), the motion of the planet along the epicycle is the same as the motion of the deferent, and therefore the planet is observed to be in direct (eastward) motion against the background stars.  However, when the planet is on the part of its epicycle nearest to the Earth (causing the planet to appear brighter), the motion of the planet along the epicycle is opposite to the motion of the deferent, and therefore the planet appears to slow down and halt its usual eastward movement among the zodiac constellations, and actually moves backwards in retrograde (westward) motion for a few weeks or months.  Ptolemy selected the sizes and rates of motion of the epicycle and deferent circles for the known planets so that his model reproduced their apparent retrograde motion.
+
+* Off-Centered Earth – Ptolemy also incorporated more complex ideas into his model, such as allowing the Earth to be slightly off-center from the circles of a particular planet, so that it could forecast future planetary positions to within a few degrees, which was considered quite accurate at the time.
+
+* Although the Ptolemaic model endured as a way to describe the mechanics of the heavens, calculations within it were becoming more and more inaccurate as time passed.  To compensate for these inaccuracies, arbitrary choices were made regarding the components of the epicycle-deferent construction.  There were no reasonable criteria for choosing among the many different calculation schemes.  The Ptolemaic model had no beauty or symmetry.
+
+
+Renaissance Period 
+
+* There were no major advances in astronomy for nearly 1,500 years.  Europe was beginning to emerge from a long period of instability in the Middle Ages.  However, during the Middle Ages, the Islamic civilization had flourished in the Arabic countries.  They translated and preserved Greek writings and adopted their ideology of logic and rational inquiry.  Islamic astronomers were careful observers of the sky and created accurate star catalogs and tables of planet motions.  In fact, many of the names of the bright stars observed in the sky have Arabic names.  However, advances in the explanations of the motions of the stars and planets were made by astronomers in Europe starting in the 16th century.
+
+* Nicolaus Copernicus 9 (1473-1543 A.D.) – Nicolaus Copernicus found many deficiencies in the Ptolemaic model.  Strongly influenced by Neo-Platonism (beliefs that combined elements of Christianity and Platonism), he thought that the Sun is a “material copy” of God – God is the creative force sustaining life and the Sun gives us warmth and light.  He therefore adopted the heliocentric (Sun-centered) model – a model first proposed by Aristarchus (c. 310-230 B.C.) – because he felt that God should be at the center of the universe 
+
+* Aspects of the Copernican model:
+
+Copernicus retained the Aristotelian notion that planets are perfect, and therefore are spherical in shape and orbit in uniform circular motion.
+
+Revolving Earth – Copernicus argued against the maintained idea of parallax by stating that the stars are very far away and the accuracy of the measurements was not great enough to detect.  (It is now known that the stars are indeed very far away and telescopes must be used to detect the small parallactic shifts.)
+
+Rotating Earth – Copernicus found it esthetically pleasing to have a rotating Earth (diurnal motion) rather than the distant stars whizzing around the Earth every 23 hours and 56 minutes, all at the same enormous rate.
+
+Copernicus determined a simple account for retrograde motion and the varying brightness of planets.  In the Copernican model, the Earth’s motion is mixed in with planetary observations.  For example 10, the Earth orbits the Sun more rapidly than Mars.  Consequently, as the Earth overtakes and passes this slower-moving planet, Mars appears for a few months to fall behind and move backward with respect to the background stars.
+
+Using trigonometry and the Earth’s relative distance from the Sun, Copernicus determined a fixed order and spacing of the planets about the Sun 11, 12.
+
+* Astronomical Unit (AU) – The Earth’s relative distance from the Sun is one astronomical unit (1 AU).
+
+* Problems and Attributes – Copernicus had to add epicycles 13 to arrive at accurate observations, and therefore his model was not clearly simpler than Ptolemy’s.  However, the Copernican model could derive more facts from fewer assumptions.
+
+* Tycho Brahe 14 (1546-1601 A.D.) – Brahe was the last major astronomer to make naked-eye observations prior to the invention of the telescope.  He constructed precise instruments, such as the quadrant 15, for making accurate measurements of the positions of stars and planets.  Although Brahe’s ideas about his data were not always correct, the quality of the observations themselves was central to the development of modern astronomy.
+
+
+
+
+
+
+
+* Observational contributions:
+
+A map of 777 stars placed more accurately than ever before.
+
+A very complete and precise collection of planetary positions and motions.  Brahe mapped out as many points around the planets’ orbits as he could, with an accuracy of one minute of arc (1 minute of arc is 1/60 of a degree.)
+
+Brahe observed a “new star” (nova stella) that appeared suddenly where none had been seen before, and was visible for about 18 months before fading from view.  (It is now known that this “new star” was a supernova – an exploding star.)  This contradicted Aristotle’s viewpoint of an unchanging universe.
+
+Brahe made careful observations of a comet.  By measuring the parallax for the comet, he was able to show that the comet was further away than the Moon.  This contradicted the teachings of Aristotle, who had held that comets were atmospheric phenomena – “gases burning in the atmosphere”.  Moreover, Brahe ascribed an oval-like orbit for the comet, which deviated from the maintained idea that celestial objects orbit in perfect circles.
+
+* Tychonic Model 16 – Even with his accurate measurements, Brahe could not observe stellar parallax.  Moreover, it was inconceivable for him to imagine the immense Copernican universe.  Thus, Brahe proposed a model that combined aspects of both the Ptolemaic and Copernican models in which the planets orbit the Sun, while the Sun, Moon, and stars orbit the Earth.
+
+* Johannes Kepler 17 (1571-1630 A.D.) – Kepler was motivated by his faith in God to try to discover God’s plan in the universe – to “read the mind of God.”  Moreover, Kepler believed that mathematics is the language of God, and like Pythagoras’ view, is needed to interpret nature.  He knew that all previous models were inaccurate, so he felt that other scientists had not yet “read the mind of God”.  Moreover, Kepler’s Neo-Platonic faith led him to choose the Copernican model.
+
+* Platonic Solid Model – Kepler believed God must have had some geometric design for placing the six planets (Uranus and Neptune were yet to be discovered) at particular distances from the Sun.  A sudden revelation led Kepler to consider that the reason there is only six planets was because there were just five Platonic solids 18.   He developed a complex mathematical model of nesting spheres and these five solids 19.  Specifically, each sphere represents a planetary orbit and each orbit marks out one of the solids.  Therefore, the solids function as spacers between the planetary orbits.   The model worked reasonably well with the planetary distances then accepted, but Kepler could see that it wasn’t perfect.  Kepler realized that Brahe’s work could settle the question one way or the other, so he went to work for him as his assistant.
+
+* Elliptical Orbit 20 – After a long struggle, Kepler was finally convinced (with great reluctance) of a revolutionary idea: the orbits of the planets were not circles as demanded by Aristotle and assumed implicitly by Copernicus, but were instead ellipses (“flattened circles”).
+
+* Apparently Brahe mistrusted Kepler, fearing that his bright young assistant might eclipse him as the premiere astronomer of his day.  Therefore, Brahe gave Kepler the troublesome task of understanding the orbit of the planet Mars, hoping it would occupy him while he worked on his model.  Ironically, it was precisely this data that allowed Kepler to determine the correct model, thus disproving Brahe’s model, and eventually achieving Kepler a place in the development of astronomy far surpassing that of Brahe.
+
+* Kepler’s Laws of Planetary Motion – Kepler obtained Brahe’s data after his death despite the attempts by Brahe’s family to keep the data from him in the hope of monetary gain.  There is some evidence that Kepler obtained the data by less than legal means; it is fortunate for the development of modern astronomy that he was successful.  Utilizing the voluminous and precise data of Brahe, Kepler was eventually able to formulate his three laws of planetary motion – thousands of years of planetary observations summarized into three concise statements.
+
+* First Law 21 – The orbits of all planets are ellipses with the Sun at one focus.
+
+* This law tells us that a planet’s distance from the Sun varies during its orbit: it is closest at the point called perihelion, and farthest at the point called aphelion.
+
+* Second Law 22, 23 – A planet sweeps out equal areas in equal times.
+
+* Kepler speculated a force from the Sun moved the planets around their orbits.  Moreover, the velocity of the planets should depend on their distances from the Sun.  Therefore, Kepler’s second law explains the non-uniform motion of planets.  More specifically, a planet moves faster near perihelion (where the Sun’s force is greater), while slower near aphelion (where the Sun’s force is less).
+
+* Third Law (Harmonic Law) 24 – The square of the period of revolution of a planet is equal to the cube of its average distance from the Sun.  In terms of an equation: p2 = a3.
+
+* Example: Saturn’s period equals 29.458 years and its average distance is equal to 9.539 A.U.  Therefore:  
+(29.458)2 = (9.539)3
+867.77 » 867.97
+
+* Kepler retained his model of nested Platonic solids even when replacing circular orbits by elliptical ones.  Indeed, much of his subsequent work was directed to improving it.  Of course the approximate agreement of planetary orbits with the model is coincidental.
+
+
+
+
+
+
+* Galileo Galilei 25 (1564-1642 A.D.) – Galileo was a pivotal figure in the development of modern astronomy, both because of his contributions directly to astronomy, and because of his work in physics and its relation to astronomy.  He provided the crucial observations that proved the Copernican model, and also laid the foundations for a correct understanding of how objects moved on the surface of the Earth (dynamics) and of gravity.  Galileo is often considered the father of modern science because his ideas were derived from experiments rather than thought alone.
+ 
+* Galileo’s Telescope Discoveries – Galileo did not invent the telescope (Dutch lens makers receive that credit), but he was the first to use the telescope to study the heavens systematically.  His little telescope was poorer than even a cheap modern amateur telescope, but what he observed in the heavens rocked the very foundations of Aristotle’s universe and the theological-philosophical worldview that it supported.  It is said that what Galileo saw was so disturbing for some officials of the Church that they refused to even look through his telescope; they reasoned that Satan was capable of making anything appear in the telescope, so it was best not to look through it.
+
+There are many more stars than appear to the unaided eye.  Moreover, the Milky Way is composed of stars too faint to be seen individually with the naked eye.
+
+* Unthinkable to most philosophers of Galileo’s day; heavenly objects were created with humanity in mind.  What were these “new” stars that one could not see?
+
+The surface of the Moon is similar to the Earth’s surface; it has mountains, valleys and pits (craters).  (Galileo’s sketch of the Moon. 26)
+ 
+* This completely went against Aristotle’s doctrine that objects in the heavens partake of perfection.  In other words, the Moon should be a smooth, perfect, geometric object.
+
+Sunspots 27 – Galileo saw that the Sun had dark patches on it, what are now referred to as sunspots.  (Galileo eventually went blind, perhaps from damage suffered by looking at the Sun with his telescope.)  Furthermore, he observed motion of the sunspots indicating that the Sun was rotating on an axis.
+
+* These “blemishes” on the Sun were also contrary to the doctrine that the heavens were composed of unchanging perfect objects.  Moreover, the rotation of the Sun made it less strange that the Earth might also rotate on an axis, as required in the Copernican model.
+
+Jupiter’s Moons 28 – Galileo observed four points of light that changed their positions with time around the planet Jupiter.  He concluded that these were objects in orbit around Jupiter.  Indeed, they are the planet’s four major moons (Io, Europa, Ganymede and Callisto), which are now commonly referred to as the Galilean satellites in his honor.
+
+* This too went against Aristotle’s doctrine that all objects revolve around the Earth.
+
+Phases of Venus 29 – Like the Moon, Venus displays a complete cycle of phases.
+
+* This observation provided the first conclusive proof of Copernicus’ heliocentric model 30.  Galileo understood that his observation ruled out Ptolemy’s geocentric model – Venus would always be seen as a crescent.
+
+* Foundation of Modern Mechanics – Galileo made advances in understanding the laws governing the motion of objects.
+
+* Motions of Falling Objects – Galileo found that a falling object does not fall at constant rate, as Aristotle said, but is accelerated.  More specifically, it moves 9.8 m/sec (32 ft/sec) faster with each passing second.  Galileo also discovered that the acceleration does not depend on the weight of the object.  This too is contrary to the teachings of Aristotle who believed that heavier objects fall more quickly than lighter ones.
+
+* Galileo’s Law of Inertia – Perhaps Galileo’s greatest contribution to physics was his formulation of the concept of inertia: an object in a state of motion possesses an “inertia” that causes it to remain in that state of motion unless an external force acts on it.  His observations contradicted the long, unchallenged physics of Aristotle, who taught that in order for something to keep moving, a force must be continually applied.  Galileo, through a series of experiments (many with objects sliding down inclined planes), realized that the analysis of Aristotle was incorrect because it failed to account properly for a hidden force; the frictional force between the surface and the object.  From this he abstracted a basic form of the law of inertia: an object pushed at constant speed across a frictionless surface of infinite extent will continue at that speed forever after we stop pushing, unless a new force acts on it at a later time.
+
+* Conflict with the Church – Galileo’s challenge of the Roman Catholic Church’s authority through his assault on the Aristotelian conception of the universe eventually got him into deep trouble with the Inquisition.  Late in his life, he was forced to recant publicly his Copernican views and spent his last years essentially under house arrest.  The Church formally pardoned Galileo in 1992.
+
+* Sir Isaac Newton 31 (1642-1727 A.D.) – Newton’s accomplishments were many.  In particular: (1) in optics, his analysis of white light was the beginning of the science of spectroscopy and the construction of the first reflecting telescope, (2) in mathematics, he was involved with the development of calculus, and (3) in mechanics, he developed three laws governing the motion of all objects and the formulation of the law of universal gravitation.  (Of these, the third one is the most important to us because it makes it possible to understand orbital motions.)
+
+
+
+
+* Newton’s Laws of Motion – Newton demonstrated that the motion of objects on the Earth could be described by three laws of motion, and then he went on to show that Kepler’s three laws of planetary motion were but special cases of his three laws if a force of attraction – gravity – were postulated to exist between all objects in the universe having mass.
+
+* First law – An object at rest remains at rest, and an object in motion moves at constant speed in a straight line, unless acted upon by an outside force.
+(Newton’s first law is a restatement of Galileo’s law of inertia).
+
+* Acceleration 32 – A force causes an object to accelerate.  In common usage, acceleration usually means just a change in speed.  However, in science, acceleration is not only a change in the speed, but also a change in direction.
+
+* Examples: (1) A car has three accelerators – the gas pedal, the brake pedal, and the steering wheel.  (2) The orbit of one of the planets around the Sun 33.  (3) A satellite orbiting a planet is constantly being accelerated even if its speed is constant because its direction is constantly being deflected 34.
+
+* No Acceleration 35 – An object is not accelerating if it is at rest or is moving at constant speed in a straight line.
+
+* Second Law – Newton’s first law of motion shows that an object can accelerate … a qualitative expression.  Whereas, Newton’s second law of motion determines the amount of acceleration … a quantitative expression. Newton’s second law states: The acceleration (a) of an object (m) is proportional to the force (F) acting on the object. 
+In terms of an equation: a = F/m (usually written: F = ma).
+
+* Force – By tracking the motion of an object, this law also allows us to calculate the forces.  The larger the force, the greater the acceleration.  Also, a given force will have more affect on a body of small mass than on a large one 36.
+
+* Weight – In common usage, the terms weight and mass are used interchangeably.  However, in science there is a distinct difference between the two terms.  The weight of an object is the force of gravity felt by that object, but the mass of an object is the amount of matter the object has – the object’s mass is independent of the gravity.  An additional aspect of Newton’s second law is the weight of an object.
+In terms of an equation: W = mg.
+
+* Example: If we compare the weight of two rocks of equal mass (m), one located on the surface of the Earth, the other located on the surface of the Moon.  The rock on the Earth would weigh about six times more than the one on the Moon, because the Earth’s gravitational force (g) is about six times stronger than the Moon’s.
+
+* Third Law – For every force (action) on one object, there is an equal and opposite force (reaction) acting on another object.  In other words, two interacting objects exert mutual forces on each other that are equal in magnitude and opposite in direction.
+
+* Examples: (1) This law is exemplified by what happens if you step off a boat onto a dock: as you move in the direction of the dock, the boat tends to move in the opposite direction, leaving you facedown in the water, if you aren’t careful.  (2) This law also says that when an apple falls toward the Earth, the Earth must also move toward the apple.  However, the mass of Earth is much greater than the mass of the apple.  Therefore, the acceleration of the Earth is so small that it is almost negligible.
+In terms of an equation: F(Earth) = F(apple)
+           ma(Earth) = ma(apple)
+
+* Cause and Effect – Objects do not just move.  They accelerate due to the action of a force.  Moving objects do not just stop.  They decelerate due to a force.  Also, moving objects don’t just change direction for no reason.  Any change in direction requires the presence of a force.  Aristotle said that objects move because they have a tendency to move.  Newton said that objects move due to a specific cause, a force.
+
+* Newton’s Universal Law of Gravitation – The gravitational force (F) between two objects is proportional to the product of their masses (m(1) and m(2)) and inversely proportional to the square of the distance (d) between them.
+In terms of an equation: F = Gm(1)m(2) 
+                                                   d2
+
+* Direct and Inverse Square – If either m(1) or m(2) increases, F increases.  If d increases, F decreases.  Moreover, the gravitational force decreases as the square of the distance.  For example, if the distance between two masses is doubled, the gravitational force between them decreases by a factor of four.
+
+* “Universal” – Newton realized that gravity – the force that drew the apple to the Earth – was the same force that drew the Moon toward the Earth.  However, his third law of motion states that force always occur in pairs, so if the Earth attracted the Moon, then the Moon had to attract the Earth.  Newton looked beyond the Earth-Moon system and realized that the Earth’s gravity must attract the Sun as well as the Moon, and if the Earth attracted the Sun, then the Sun had to attract the Earth.  Furthermore, if the Sun’s gravity attracted the Earth, then it attracted all the planets and even distant stars.  Newton’s third law of motion led him to conclude that gravitation had to apply to all masses in the universe.  That is, it had to be universal.
+
+
+
+
+
+* Orbital Motion 37 – Newton’s laws of motion and gravitation make it possible to understand why the planets move along their orbits.  To illustrate, suppose we fire a cannon horizontally from a high mountain, the cannonball will eventually fall to Earth, because the Earth’s gravitational force pulls (accelerates) it toward the center of the Earth.  However, if we increase the amount of gunpowder, the cannonball would move faster and therefore travel further before falling to Earth.  Newton reasoned that if the cannonball moved fast enough, it would never strike the ground.  The Earth’s gravity pulls (accelerates) the cannonball towards the Earth’s center, but the Earth’s surface curves away from it at the same rate at which it falls.  That is, the cannonball would have been put into orbit around the Earth.  Newton concluded that the orbit of the Moon was of exactly the same nature: the Moon continuously “falls” in its path around the Earth because of the acceleration due to gravity, thus producing its orbit.
+
+* The first law of motion states that an object in motion stays in motion in a straight line unless acted upon by some force.  Therefore the cannonball travels in a curved path around the Earth because the Earth’s gravity pulls (accelerates) it away from its straight-line motion.  Similarly, if there were no outside force acting on the planets, they would leave their curved orbits and move away from the Sun along straight-line paths at constant speeds 38.
+
+
+20th Century
+
+* Albert Einstein 39 (1879-1955 A.D.) – Although Newton described the effects of gravity, he failed to discuss its nature.  Einstein synthesized a new view of gravity in his theory of general relativity (published in 1916), where gravity is no longer a force, but a “course”.   
+
+* Curved Space-Time 40 – The second fundamental principle of general relativity is that the presence of matter curves the “fabric” of space-time, and objects respond to this curvature like a rolling golf ball responds to undulations in a putting green.  In other words, mass tells space-time how to curve, and the curvature of space-time (gravity) tells mass how to accelerate.  All masses cause curvature, and the larger the mass, the more severe the curvature.
+
+* Space-Time – Space-time is a model that combines space and time into a four-dimensional coordinate system; three dimensions of space and one dimension of time in which all objects are located and all events occur.
+
+
+
+
+
+
+
+
+* Proof  – Einstein’s theory of general relativity has been confirmed by a number of experiments, the following were among the first tests of the theory:
+
+Mercury’s Orbital Precession 41 – For several centuries, Mercury was known to display orbital precession.  This means the major axis of the planet’s orbit does not have a fixed orientation, but slowly shifts around the Sun.  Using Newton’s laws of motion, astronomers explained that Mercury’s orbital precession is mainly caused by the gravitational effects of other planets (perturbation).  However, a small part of the precessional rate (43.11 seconds of arc per century) could not be explained.  In fact, this led astronomers in the nineteenth century, still restricted by Newtonian physics, to search for an undiscovered planet closer to the Sun (prematurely named Vulcan) to explain the remaining precessional rate.  The planet was never found.  Einstein applied the principles of his theory, which predicted this advancement well within observational accuracy.  Modern studies have shown that Venus, Earth, Icarus (an asteroid that comes close to the Sun) and binary star systems also have orbits moving forward due to the curvature of space.
+
+Deflection of Starlight 42 – General relativity predicted that light would be deflected by curved space-time.  In fact, Einstein calculated that starlight grazing the Sun’s surface would be deflected by 1.75 seconds of arc.  Starlight passing near the Sun is normally lost in the Sun’s glare, but during a total solar eclipse, stars beyond the Sun can be observed.  In 1919, British teams went to both Africa and South America to observe a total solar eclipse.  First they photographed that part of the sky where the Sun would be located during the eclipse.  Then during the eclipse, they photographed the same star field with the eclipsed Sun in the middle.  By comparing the photographic plates, they observed the positions of the stars were shifted outward from the Sun by about 1.8 seconds of arc – well within the theory's prediction.  This test has been repeated many times with similar results.
+
+* Einstein’s theory of general relativity is an extension of Newton’s law of gravity. Einstein’s theory is not perfect (no scientific theory is absolutely perfect), but it does give a better understanding of the universe.  In weak gravity conditions, the curvature of space-time is so small that Newton’s law of gravity works just fine.  If fact, NASA scientists use Newton’s laws of motion and gravity to accurately guide spacecraft in our solar system.  However, for very strong gravitational fields, Newton’s description of gravity becomes inadequate, and Einstein’s theory of general relativity must be used to describe the gravitational effects. 

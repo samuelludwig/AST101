@@ -12,6 +12,7 @@
     <title>AST101 - Astronomy Of The Solar System Internet Site | Course Outlines</title>
     <link rel="stylesheet" href="./css/style.css">
     <script src="sketch.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 </head>
 
 <body>
@@ -50,13 +51,17 @@
         </div>
     </section>
 
+    <!-- 
+        * Want the script to write the appropriate course outline when the corresponding button is pressed 
+        * TODO's are as follows: 
+        * 1) Get JavaScript to read/write or import a doc file 
+        * 2) Get something along the lines of 
+        * if(button === 504) then set doc-port equal to courseOutline504 
+    -->
     <section id="doc">
         <div class="container">
-            <article id="doc-port">
-                <p>
-                    /* Want the script to write the appropriate course outline when the corresponding button is pressed * TODO's are as follows: * 1) Get JavaScript to read/write or import a doc file * 2) Get something along the lines of * if(button === 504) then set doc-port
-                    equal to courseOutline504 */
-                </p>
+            <article id="doc-art">
+                <pref id="doc-port"></pref>
             </article>
         </div>
     </section>
