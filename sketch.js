@@ -1,7 +1,7 @@
 // Course Outlines button functions
 
 function show500() {
-    $("#doc-port").load("./Course_Outlines/banks.txt");
+    $("#doc-port").load("https://samuelludwig.github.io/AST101/Course_Outlines/banks.txt");
     // document.getElementById("doc-port").innerHTML = txt;
 }
 
