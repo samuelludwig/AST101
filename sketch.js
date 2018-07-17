@@ -6,9 +6,9 @@ function show500() {
 }
 
 function show501() {
-    document.getElementById("doc-port").innerHTML = 501;
+    $("#doc-port").load("https://samuelludwig.github.io//AST101//Course_Outlines//501.txt");
 }
 
 function show504() {
-    document.getElementById("doc-port").innerHTML = 504;
+    $("#doc-port").load("https://samuelludwig.github.io//AST101//Course_Outlines//504.txt");
 }
