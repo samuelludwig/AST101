@@ -3,164 +3,164 @@ Celestial Observations
 
 Celestial Coordinates
 
-* Celestial Sphere 1 – Many ancient societies believed the sky was an immense, hollow sphere surrounding the Earth.  They imagined the stars, planets, Sun, and Moon attached to this sphere and rotating around the stationary Earth every 24 hours.  Although it is now known that this ancient model is incorrect, it is still a convenient way to predict the motions of celestial objects relative to a location on the Earth.
+* Celestial Sphere 1 - Many ancient societies believed the sky was an immense, hollow sphere surrounding the Earth.  They imagined the stars, planets, Sun, and Moon attached to this sphere and rotating around the stationary Earth every 24 hours.  Although it is now known that this ancient model is incorrect, it is still a convenient way to predict the motions of celestial objects relative to a location on the Earth.
 
-* Celestial Dome 1 – As you look at the sky, it appears like a large dome over your head.  You are seeing half of the celestial sphere; the other half is below the horizon.  The celestial dome defines the local sky (the sky as seen from wherever an observer happens to be standing).
+* Celestial Dome 1 - As you look at the sky, it appears like a large dome over your head.  You are seeing half of the celestial sphere; the other half is below the horizon.  The celestial dome defines the local sky (the sky as seen from wherever an observer happens to be standing).
 
-* Horizon – The boundary between the Earth and the sky.
+* Horizon - The boundary between the Earth and the sky.
 
-* Zenith 2 – The point directly overhead, wherever an observer stands 3.
+* Zenith 2 - The point directly overhead, wherever an observer stands 3.
 
-* Celestial Meridian 4 – An imaginary line that starts at the north point of the horizon, goes to the zenith, and from the zenith, to the south point of the horizon.
+* Celestial Meridian 4 - An imaginary line that starts at the north point of the horizon, goes to the zenith, and from the zenith, to the south point of the horizon.
 
-* Celestial Poles 5 – The projections of the Earth’s north and south poles onto the celestial sphere, thus creating the north celestial pole (NCP) and the south celestial pole (SCP).
+* Celestial Poles 5 - The projections of the Earth-s north and south poles onto the celestial sphere, thus creating the north celestial pole (NCP) and the south celestial pole (SCP).
 
-* Precession 6 – The Earth behaves somewhat like a spinning top, causing the axis of rotation to trace out a circle.  This slow conical motion of the Earth’s axis of rotation is called precession, and is due to the gravitational effects of the Sun and Moon on the Earth’s equatorial bulge.  Precession slowly alters the direction of the polar axis, causing the gradual apparent shift of the NCP and SCP.  This causes the “pole” stars – any bright star that happens to be within a few degrees of the NCP and SCP – to be represented by different stars at various times.
+* Precession 6 - The Earth behaves somewhat like a spinning top, causing the axis of rotation to trace out a circle.  This slow conical motion of the Earth-s axis of rotation is called precession, and is due to the gravitational effects of the Sun and Moon on the Earth-s equatorial bulge.  Precession slowly alters the direction of the polar axis, causing the gradual apparent shift of the NCP and SCP.  This causes the -pole- stars - any bright star that happens to be within a few degrees of the NCP and SCP - to be represented by different stars at various times.
 
-* North Pole Stars 7 – At the present time, Polaris in Ursa Minor is the North Star.  About 5000 years ago, the star Thuban in Draco was the North Star, whereas 13,000 years from now, the star Vega in Lyra will be the North Star.
+* North Pole Stars 7 - At the present time, Polaris in Ursa Minor is the North Star.  About 5000 years ago, the star Thuban in Draco was the North Star, whereas 13,000 years from now, the star Vega in Lyra will be the North Star.
 
-* One “wobble” (360°) of the Earth’s axis of rotation equals 25,725 years
-(1° » 72 years).
+* One -wobble- (360-) of the Earth-s axis of rotation equals 25,725 years
+(1- - 72 years).
 
-* Celestial Equator 8 – The projection of the Earth’s equator onto the celestial sphere.
+* Celestial Equator 8 - The projection of the Earth-s equator onto the celestial sphere.
 
-* Ecliptic 9 – The apparent path of the Sun through the sky. This path corresponds to the zodiac constellations, the set of constellations through which the Moon and planets also appear to move.  Because it’s the Earth and not the Sun that is actually moving, the ecliptic corresponds to the plane of the Earth’s orbit 10.
+* Ecliptic 9 - The apparent path of the Sun through the sky. This path corresponds to the zodiac constellations, the set of constellations through which the Moon and planets also appear to move.  Because it-s the Earth and not the Sun that is actually moving, the ecliptic corresponds to the plane of the Earth-s orbit 10.
 Celestial Positioning
 
-* Distances 11 – All celestial objects appear to be attached to the celestial sphere, but it is an illusion.  In other words, we lack depth of perception when we look into space, and therefore it looks like all celestial objects lie at the same distance.
+* Distances 11 - All celestial objects appear to be attached to the celestial sphere, but it is an illusion.  In other words, we lack depth of perception when we look into space, and therefore it looks like all celestial objects lie at the same distance.
 
 * Distances to objects within the solar system can be measured in miles.
 
-* The Moon – The Moon is the closest celestial object to the Earth at a distance of about 238,000 miles.
+* The Moon - The Moon is the closest celestial object to the Earth at a distance of about 238,000 miles.
 
-* The Sun – The Earth is the third planet from the Sun at a distance of approximately 93,000,000 miles.
+* The Sun - The Earth is the third planet from the Sun at a distance of approximately 93,000,000 miles.
 
-* Neptune – Neptune is the planet furthest from the Sun (and the Earth) at a distance of approximately 2,800,000,000 miles.
+* Neptune - Neptune is the planet furthest from the Sun (and the Earth) at a distance of approximately 2,800,000,000 miles.
 
-* Light Year – Because the distances to stars are so vast, using the mile as a unit of distance is inappropriate.  Instead astronomers use light years.  Light travels at a speed of about 186,000 miles per second in the vacuum of space, and therefore can cover a distance of nearly 6,000,000,000,000 (6 trillion) miles in one year.
+* Light Year - Because the distances to stars are so vast, using the mile as a unit of distance is inappropriate.  Instead astronomers use light years.  Light travels at a speed of about 186,000 miles per second in the vacuum of space, and therefore can cover a distance of nearly 6,000,000,000,000 (6 trillion) miles in one year.
 
-* Proxima Centauri 12 – A member of the Alpha Centauri triple system, Proxima Centauri is the nearest star to us at a distance of 4.22 light years (approximately 25 trillion miles).
+* Proxima Centauri 12 - A member of the Alpha Centauri triple system, Proxima Centauri is the nearest star to us at a distance of 4.22 light years (approximately 25 trillion miles).
 
-* Horizon System 13 – When locating celestial objects in the sky, a useful frame of reference is the horizon.  The “horizon system” divides the celestial dome into imaginary lines referred to as altitude and azimuth.
+* Horizon System 13 - When locating celestial objects in the sky, a useful frame of reference is the horizon.  The -horizon system- divides the celestial dome into imaginary lines referred to as altitude and azimuth.
 
-* Altitude 14 – The celestial object’s angular height above the horizon.  The altitude of a celestial object can be measured in degrees or fractions.
+* Altitude 14 - The celestial object-s angular height above the horizon.  The altitude of a celestial object can be measured in degrees or fractions.
 
-* On the horizon = 0°
-* At the zenith = 90°
-* 1/2 = 45°
-* 1/3 = 30°
-* 2/3 = 60°
+* On the horizon = 0-
+* At the zenith = 90-
+* 1/2 = 45-
+* 1/3 = 30-
+* 2/3 = 60-
 
-* Azimuth 14 – The celestial object’s compass direction along the horizon.  The azimuth of a celestial object can be measured in degrees or common terms.
+* Azimuth 14 - The celestial object-s compass direction along the horizon.  The azimuth of a celestial object can be measured in degrees or common terms.
 
-* North = 0°
-* East = 90°
-* South = 180°
-* West = 270°
+* North = 0-
+* East = 90-
+* South = 180-
+* West = 270-
 
 * The horizon system is only viable for a particular latitude and longitude.  For example, the altitude of a particular star would be quite different if viewed from the North Pole, Equator and South Pole 15.
 
-* The location of the celestial poles (and celestial equator) is dependent upon the observer’s latitude.
+* The location of the celestial poles (and celestial equator) is dependent upon the observer-s latitude.
 
-* Northern Hemisphere – The altitude of the north celestial pole (Polaris) equals the observer’s latitude.
+* Northern Hemisphere - The altitude of the north celestial pole (Polaris) equals the observer-s latitude.
 
-* North Pole (90°N) 16 – The NCP is directly above (located at the zenith).
-* Equator (0°) 17 – The NCP is on the north horizon (and the SCP is on the south horizon). 
-* 40°N 18 – The NCP is 40° above the north horizon.
+* North Pole (90-N) 16 - The NCP is directly above (located at the zenith).
+* Equator (0-) 17 - The NCP is on the north horizon (and the SCP is on the south horizon). 
+* 40-N 18 - The NCP is 40- above the north horizon.
 
-* Southern Hemisphere – The altitude of the south celestial pole equals the observer’s latitude.
+* Southern Hemisphere - The altitude of the south celestial pole equals the observer-s latitude.
 
-* 30°S 19 – The SCP is 30° above the south horizon.
+* 30-S 19 - The SCP is 30- above the south horizon.
 
 * Differences in latitude not only change the altitude of the NCP (Polaris) and the SCP, but all celestial objects 20, 21.
 
 
 Celestial Motions
 
-* Diurnal Motion 22 – The daily rising in the east and setting in the west of celestial objects.  Diurnal motion is caused by the Earth’s rotation.
+* Diurnal Motion 22 - The daily rising in the east and setting in the west of celestial objects.  Diurnal motion is caused by the Earth-s rotation.
 
-* Seasonal Motion 23 – A slower cycle of the Sun and stars (constellations) from east to west can be observed.  This cycle brings back the same stars to the same place at the same time each year.  Therefore, each season is characterized by a particular group of constellations.  The seasonal motion is a manifestation of the actual orbital motion (revolution) of the Earth around the Sun.
+* Seasonal Motion 23 - A slower cycle of the Sun and stars (constellations) from east to west can be observed.  This cycle brings back the same stars to the same place at the same time each year.  Therefore, each season is characterized by a particular group of constellations.  The seasonal motion is a manifestation of the actual orbital motion (revolution) of the Earth around the Sun.
 
 
 Celestial Objects
 
-* Stars – A star is a massive, gaseous body held together by gravity and generally emitting light.  Normal stars generate energy by nuclear reactions (fusion) in their cores.
+* Stars - A star is a massive, gaseous body held together by gravity and generally emitting light.  Normal stars generate energy by nuclear reactions (fusion) in their cores.
 
-* Constellations – A constellation is a pattern of stars that is identified by a given name.  They usually represent mythological gods, people, animals, or objects.  An example of a constellation is Orion, the hunter 24.
+* Constellations - A constellation is a pattern of stars that is identified by a given name.  They usually represent mythological gods, people, animals, or objects.  An example of a constellation is Orion, the hunter 24.
 
-* The word constellation is derived from the Latin language, meaning “with stars”.  The origin of constellations is a very archaic concept, created during the times of prehistory.  Many cultures developed their own constellations.  However, we are most acquainted with the constellations based upon the Greek myths.
+* The word constellation is derived from the Latin language, meaning -with stars-.  The origin of constellations is a very archaic concept, created during the times of prehistory.  Many cultures developed their own constellations.  However, we are most acquainted with the constellations based upon the Greek myths.
 
 
-* Constellations were confined to the outlines of their identifying forms.  Stars lying outside these forms were called “unformed” or “scattered” (Egyptians) or “outside the image” (Arabians).  However, in 1930, the International Astronomical Union adopted standardized boundaries for all the recognized constellations; the formerly adjacent stars are included in these areas.
+* Constellations were confined to the outlines of their identifying forms.  Stars lying outside these forms were called -unformed- or -scattered- (Egyptians) or -outside the image- (Arabians).  However, in 1930, the International Astronomical Union adopted standardized boundaries for all the recognized constellations; the formerly adjacent stars are included in these areas.
 
-* “Twinkling” Stars 25 – Stars shine with a steady light.  However, starlight coming through the Earth’s turbulent atmosphere causes the star to appear to twinkle.
+* -Twinkling- Stars 25 - Stars shine with a steady light.  However, starlight coming through the Earth-s turbulent atmosphere causes the star to appear to twinkle.
 
-* Magnitude – A scale of measuring brightness in which each magnitude jump represents a 2.512 factor increase or decrease in brightness.  The larger the number, the fainter the star.  The magnitude scale can include fractions, zero, and negative numbers.  For example, a –1.5 magnitude star is 100 times brighter than a +4.5 magnitude star.
+* Magnitude - A scale of measuring brightness in which each magnitude jump represents a 2.512 factor increase or decrease in brightness.  The larger the number, the fainter the star.  The magnitude scale can include fractions, zero, and negative numbers.  For example, a -1.5 magnitude star is 100 times brighter than a +4.5 magnitude star.
 
-* Apparent Magnitude (m) – The brightness of a star as seen from the Earth is dependent upon: (1) the star’s luminosity, which is the total energy it actually emits per second in all directions and (2) the star’s distance from the Earth (the inverse square law of light propagation, B = 1/d2).
+* Apparent Magnitude (m) - The brightness of a star as seen from the Earth is dependent upon: (1) the star-s luminosity, which is the total energy it actually emits per second in all directions and (2) the star-s distance from the Earth (the inverse square law of light propagation, B = 1/d2).
 
-* Planetary Objects – Apparent magnitudes are also assigned to planetary objects (planets and the Moon).  Like stars, the apparent magnitude of a planetary object is dependent upon distance.  However, it is also due to the planetary object’s albedo, which is the amount of light reflected by the planetary object compared to the amount of light received.  Generally, a large albedo indicates an atmosphere, water, and/or ice (snow).
+* Planetary Objects - Apparent magnitudes are also assigned to planetary objects (planets and the Moon).  Like stars, the apparent magnitude of a planetary object is dependent upon distance.  However, it is also due to the planetary object-s albedo, which is the amount of light reflected by the planetary object compared to the amount of light received.  Generally, a large albedo indicates an atmosphere, water, and/or ice (snow).
 
 * The brightest celestial object is the Sun with an apparent magnitude of 
-–26.78.  The Moon is second: m = –12.5. Venus is third: m = –4.6.
-The brightest star is Sirius: m = –1.4, whereas Polaris = +2.0.
+-26.78.  The Moon is second: m = -12.5. Venus is third: m = -4.6.
+The brightest star is Sirius: m = -1.4, whereas Polaris = +2.0.
 
 * The faintest celestial object that the naked eye can discern is about +6.5.
   
-* Absolute Magnitude (M) – The magnitude that a star would appear to have if viewed from a distance of 32.6 light years (10 parsecs).  For example, the Sun has an absolute magnitude of +4.8, whereas Sirius: M = +1.0.  Absolute magnitude allows astronomers to measure the energy output of stars.
+* Absolute Magnitude (M) - The magnitude that a star would appear to have if viewed from a distance of 32.6 light years (10 parsecs).  For example, the Sun has an absolute magnitude of +4.8, whereas Sirius: M = +1.0.  Absolute magnitude allows astronomers to measure the energy output of stars.
 
-* Circumpolar Zone (Window) 26 – The region of the sky that the stars and constellations always appear above the horizon.  The size of this zone is dependent upon the observer’s latitude.
+* Circumpolar Zone (Window) 26 - The region of the sky that the stars and constellations always appear above the horizon.  The size of this zone is dependent upon the observer-s latitude.
 
-* Long Island (»40°N) 27 – The circumpolar zone is within 40° of Polaris.  There are five constellations that are circumpolar for Long Island or any location at a latitude of 40°N: Ursa Minor, Draco, Cepheus, Cassiopeia, and Camelopardalis.
+* Long Island (-40-N) 27 - The circumpolar zone is within 40- of Polaris.  There are five constellations that are circumpolar for Long Island or any location at a latitude of 40-N: Ursa Minor, Draco, Cepheus, Cassiopeia, and Camelopardalis.
 
-* North Pole – The circumpolar zone is the entire sky, and therefore all constellations observed are always above the horizon.
+* North Pole - The circumpolar zone is the entire sky, and therefore all constellations observed are always above the horizon.
 
-* Equator – There is no circumpolar zone, and therefore all constellations rise and set.
-* The Sun – The Sun is a star.  However, it is a special star because it’s the one the Earth orbits.  The Earth’s revolution around the Sun, coupled with the planet’s axis of rotation being tilted by 23.5° to the ecliptic plane 28, causes the seasons.  The seasons relate to changes in the rising and setting positions of the Sun and the Sun’s angular height and the amount of time it spends above the horizon 29.
+* Equator - There is no circumpolar zone, and therefore all constellations rise and set.
+* The Sun - The Sun is a star.  However, it is a special star because it-s the one the Earth orbits.  The Earth-s revolution around the Sun, coupled with the planet-s axis of rotation being tilted by 23.5- to the ecliptic plane 28, causes the seasons.  The seasons relate to changes in the rising and setting positions of the Sun and the Sun-s angular height and the amount of time it spends above the horizon 29.
 
-* Summer – The Sun rises in the northeast and sets in the northwest, and it’s high in the sky and days are long.
+* Summer - The Sun rises in the northeast and sets in the northwest, and it-s high in the sky and days are long.
 
-* Winter – The Sun rises in the southeast and sets in the southwest, and it’s low in the sky and days are short.
+* Winter - The Sun rises in the southeast and sets in the southwest, and it-s low in the sky and days are short.
 
-* Spring and Fall – The Sun rises in the east and sets in the west, and it’s halfway between the highest and lowest points and days and nights are equal in length.
+* Spring and Fall - The Sun rises in the east and sets in the west, and it-s halfway between the highest and lowest points and days and nights are equal in length.
  
-* Planets – Today, the term planet is defined as an object in orbit around a star.  However, this ancient Greek word originally meant “wandering star”, because they appeared to shift amongst the stars of the zodiac constellations.
+* Planets - Today, the term planet is defined as an object in orbit around a star.  However, this ancient Greek word originally meant -wandering star-, because they appeared to shift amongst the stars of the zodiac constellations.
 
 * Five planets are easy to find with the naked eye: Mercury, Venus, Mars, Jupiter, and Saturn.  Uranus is just visible without optical aid, but you need a dark sky to succeed, while Neptune requires a telescope to be observed.
 
 * The planets are named after the rulers among the gods in Roman mythology.
 
-* Planets shine, for the most part, with a steady light.  The size of a planet in the sky “averages out” the turbulent effects of the Earth’s atmosphere, presenting a relatively stable image to the eye. 
+* Planets shine, for the most part, with a steady light.  The size of a planet in the sky -averages out- the turbulent effects of the Earth-s atmosphere, presenting a relatively stable image to the eye. 
 
 * Planets increase and decrease in brightness.  This change in brightness is due to the varying distances of the planets from the Earth.
 
-* Non-Uniform Motion – Planets increase and decrease in speed. 
+* Non-Uniform Motion - Planets increase and decrease in speed. 
 (The cause of non-uniform motion will be discussed later.)
 
-* Annual Motion 30 – Planets appear to gradually shift west to east with respect to the stars.  This shift is called annual motion and is due to a planet’s orbital motion. 
+* Annual Motion 30 - Planets appear to gradually shift west to east with respect to the stars.  This shift is called annual motion and is due to a planet-s orbital motion. 
 
-* The Sun and Moon also shift west to east with respect to the stars.  The Sun’s shift is due to the Earth’s orbital motion around the Sun, whereas the Moon’s shift is due to its orbit around the Earth.
+* The Sun and Moon also shift west to east with respect to the stars.  The Sun-s shift is due to the Earth-s orbital motion around the Sun, whereas the Moon-s shift is due to its orbit around the Earth.
 
-* Retrograde Motion 31 – At various times, the planets reverse their course and appear to shift east to west with respect to the stars.  This shift is called retrograde motion.  (The cause of retrograde motion will be discussed later.)
+* Retrograde Motion 31 - At various times, the planets reverse their course and appear to shift east to west with respect to the stars.  This shift is called retrograde motion.  (The cause of retrograde motion will be discussed later.)
 
 * It is during retrograde motion that a planet appears its brightest 32.
 
 
-* The Moon – The Moon is the Earth’s natural satellite.  However, the term “moon” can be used to refer to a natural satellite of any planet.
+* The Moon - The Moon is the Earth-s natural satellite.  However, the term -moon- can be used to refer to a natural satellite of any planet.
 
-* Lunar Phases 33 – The changes in phases of the Moon occur because light from the Sun illuminates one half of the Moon, and as the Moon orbits the Earth we see varying amounts of the Moon’s illuminated half.
+* Lunar Phases 33 - The changes in phases of the Moon occur because light from the Sun illuminates one half of the Moon, and as the Moon orbits the Earth we see varying amounts of the Moon-s illuminated half.
 
-* The first calendars were based on the cycle of lunar phases, hence the word “month”.
+* The first calendars were based on the cycle of lunar phases, hence the word -month-.
 
-* Eclipse – The blockage of light from one celestial object caused by the passage of another between it and the observer.
+* Eclipse - The blockage of light from one celestial object caused by the passage of another between it and the observer.
 
-* Solar Eclipse 34 – The passage of the Moon between the Earth and the Sun so that our view of the Sun is partially or totally blocked.
+* Solar Eclipse 34 - The passage of the Moon between the Earth and the Sun so that our view of the Sun is partially or totally blocked.
 
-* Moon’s Shadow 35 – Taken in 1999 by the Mir space station, the image shows the Moon’s shadow darkening part of the Earth during a solar eclipse.
+* Moon-s Shadow 35 - Taken in 1999 by the Mir space station, the image shows the Moon-s shadow darkening part of the Earth during a solar eclipse.
 
-* Lunar Eclipse 36 – The passage of the Earth between the Sun and the Moon so that the Earth’s shadow falls on the Moon.
+* Lunar Eclipse 36 - The passage of the Earth between the Sun and the Moon so that the Earth-s shadow falls on the Moon.
 
-* Red Moon – The Moon appears reddish in color because the Earth’s atmosphere bends some of the red light from the Sun around the Earth and toward the Moon.
+* Red Moon - The Moon appears reddish in color because the Earth-s atmosphere bends some of the red light from the Sun around the Earth and toward the Moon.
 
-* Rarity of Eclipses 37 – Eclipses are rare because the Moon’s orbit around the Earth is tilted with respect to the Earth’s orbit around the Sun.  Without the tilt, we would have solar and lunar eclipses every month.  However, with the tilt, the result is that at new moon, the Moon’s shadow generally falls either above or below the Earth, and at full moon the Earth’s shadow falls above or below the Moon.  Therefore, eclipses only occur when the Moon’s orbital plane “points” at the Sun. 
+* Rarity of Eclipses 37 - Eclipses are rare because the Moon-s orbit around the Earth is tilted with respect to the Earth-s orbit around the Sun.  Without the tilt, we would have solar and lunar eclipses every month.  However, with the tilt, the result is that at new moon, the Moon-s shadow generally falls either above or below the Earth, and at full moon the Earth-s shadow falls above or below the Moon.  Therefore, eclipses only occur when the Moon-s orbital plane -points- at the Sun. 
 
