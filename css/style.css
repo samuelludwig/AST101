@@ -149,3 +149,24 @@ footer {
     border-top: cornflowerblue 3px solid;
     text-align: center;
 }
+
+#main-col {
+    margin-top: 16px;
+}
+
+#main-col button {
+    /* float: left; */
+    background-color: white;
+    border-color: cornflowerblue;
+    border-width: 1px;
+    margin-top: 4px;
+}
+
+#doc-port {
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    color: black;
+    float: right;
+    width: 90%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
