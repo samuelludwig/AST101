@@ -19,7 +19,7 @@ Celestial Coordinates
 
 * North Pole Stars 7 - At the present time, Polaris in Ursa Minor is the North Star.  About 5000 years ago, the star Thuban in Draco was the North Star, whereas 13,000 years from now, the star Vega in Lyra will be the North Star.
 
-* One -wobble- (360-) of the Earth-s axis of rotation equals 25,725 years
+* One -wobble- (360°) of the Earth-s axis of rotation equals 25,725 years
 (1- - 72 years).
 
 * Celestial Equator 8 - The projection of the Earth-s equator onto the celestial sphere.
@@ -45,18 +45,18 @@ Celestial Positioning
 
 * Altitude 14 - The celestial object-s angular height above the horizon.  The altitude of a celestial object can be measured in degrees or fractions.
 
-* On the horizon = 0-
-* At the zenith = 90-
-* 1/2 = 45-
-* 1/3 = 30-
-* 2/3 = 60-
+* On the horizon = 0°
+* At the zenith = 90°
+* 1/2 = 45°
+* 1/3 = 30°
+* 2/3 = 60°
 
 * Azimuth 14 - The celestial object-s compass direction along the horizon.  The azimuth of a celestial object can be measured in degrees or common terms.
 
-* North = 0-
-* East = 90-
-* South = 180-
-* West = 270-
+* North = 0°
+* East = 90°
+* South = 180°
+* West = 270°
 
 * The horizon system is only viable for a particular latitude and longitude.  For example, the altitude of a particular star would be quite different if viewed from the North Pole, Equator and South Pole 15.
 
@@ -70,7 +70,7 @@ Celestial Positioning
 
 * Southern Hemisphere - The altitude of the south celestial pole equals the observer-s latitude.
 
-* 30-S 19 - The SCP is 30- above the south horizon.
+* 30°S 19 - The SCP is 30° above the south horizon.
 
 * Differences in latitude not only change the altitude of the NCP (Polaris) and the SCP, but all celestial objects 20, 21.
 
